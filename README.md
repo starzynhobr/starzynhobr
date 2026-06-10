@@ -40,7 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
 ### GitHub Stats
