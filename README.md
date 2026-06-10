@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm starzynhobr 👋</h1>
 
 <p align="center">
-  Graphic designer • Computer maintenance • Programmer
+  Designing visuals, fixing machines, building apps and experimenting with AI agents.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -16,13 +18,29 @@
 
 - 🎨 Interested in graphic design
 - 🛠️ Computer maintenance enthusiast
-- 🌱 Currently learning Python, C# and Unity
-- 🎮 Focused on game development
+- 🌱 Currently learning Python, C#, Unity, Flutter and modern web development
+- 🎮 Focused on game development and creative software
+- 🤖 Exploring AI-assisted development with Codex, Claude and other AI agents
+
+### AI-assisted workflow
+
+- ⚡ Using AI to prototype, debug and improve projects faster
+- 🧠 Interested in combining creativity, automation and software development
+- 🚀 Building apps, tools and experiments with modern web/mobile stacks
+- 🤝 Learning how to collaborate with AI agents as coding partners
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,unity,github,windows,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,dart,flutter,react,tailwind,vite,js,nextjs,github,windows,photoshop" />
+</p>
+
+### Currently exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
 ### GitHub Stats
